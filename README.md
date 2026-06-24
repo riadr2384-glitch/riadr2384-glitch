@@ -1,16 +1,19 @@
-## Hi there 👋
+# مرحباً بك في بوابة المطور رياض نعيمي 👋
 
-<!--
-**riadr2384-glitch/riadr2384-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا مبرمج واجهات ويب متخصص في تصميم وتطوير صفحات الشاشة الواحدة (Single Screen Layout) الاحترافية بتصاميم فخمة متناسقة.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ معرض مشاريعي البرمجية (Portfolio)
+
+### 1️⃣ المشروع الأول: بوابة الثالثة متوسط - برنامج المراجعة المنظم
+* **الوصف:** صفحة ويب تفاعلية بشاشة واحدة تحتوي على جدول زمني منظم ومساعد دراسي ذكي بالجافا سكريبت، مصممة بطابع فخم (أسود وذهبي).
+* **رابط المعاينة المباشرة:** [اضغط هنا لفتح الموقع](https://riadr2384-glitch.github.io/3am-program/)
+
+### 2️⃣ المشروع الثاني: واجهة منصة ألعاب تفاعلية (قريباً)
+* **الوصف:** واجهة عرض ألعاب سريعة ومتجاوبة مع الهواتف والحواسيب.
+
+---
+
+## 📬 تواصل معي
+* للطلبات والاستفسارات، يمكنك مراسلتي مباشرة عبر الخاص (البريفي) في منصة التواصل الاجتماعي.
